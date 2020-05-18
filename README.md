@@ -53,7 +53,7 @@ git clone https://github.com/Lamithy/Doe.git
 
 - Entre na pasta do projeto:
 ```
-cd Doe
+cd MaratonaDev3
 ```
 - Baixe as depêndencias que o projeto precisa para executar:
 ```
